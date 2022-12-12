@@ -1,0 +1,9 @@
+name, email
+Priyanka, priyanka@noescape.live
+Nikky, nikky@noescape.live
+John Dev, abc@mail.com
+Siniata, tes@mail.com
+Peter Parker, fig@mail.com
+Catherine, gei@mail.com
+Fillot Verse, gro@mail.com
+Jiseca Begger, jg@mail.com
